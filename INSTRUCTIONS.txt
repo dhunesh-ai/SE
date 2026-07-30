@@ -1,0 +1,15 @@
+Terminal 1 (Backend)
+cd backend
+npm install
+npm start
+
+If npm start doesn't work:
+
+node app.js
+
+
+
+Terminal 2 (Frontend)
+cd frontend
+npm install
+npm start

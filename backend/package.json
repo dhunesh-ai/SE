@@ -1,0 +1,26 @@
+{
+  "name": "news-aggregator-backend",
+  "version": "1.0.0",
+  "description": "Node.js Express REST API backend for Full-Stack News Aggregator application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "news",
+    "aggregator",
+    "express",
+    "rest-api",
+    "docker"
+  ],
+  "author": "College Student",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
